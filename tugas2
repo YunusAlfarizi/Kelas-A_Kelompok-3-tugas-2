@@ -10,3 +10,9 @@ def Lompat () :
     move () 
     Belok_kanan ()
     move () 
+    turn_left ()    
+while at_goal () == False :
+    if wall_in_front() :
+        Lompat () 
+    else :
+        move ()
