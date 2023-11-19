@@ -1,1 +1,6 @@
-
+def Belok_kanan () : 
+    turn_left () 
+    turn_left ()
+    turn_left () 
+   
+def Lompat () : 
