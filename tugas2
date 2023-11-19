@@ -25,3 +25,10 @@ def Belok_kanan():
 def Lompat():
     turn_left()
     while wall_on_right():
+        move()
+    Belok_kanan()
+    move()
+    Belok_kanan()
+    # "jatuh" sampai menyentuh tanah
+    while front_is_clear():
+        move()
