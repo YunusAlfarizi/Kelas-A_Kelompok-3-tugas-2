@@ -1,3 +1,4 @@
+[HURDLE 3]
 def Belok_kanan () : 
     turn_left () 
     turn_left ()
