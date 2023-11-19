@@ -4,3 +4,9 @@ def Belok_kanan () :
     turn_left () 
    
 def Lompat () : 
+    turn_left () 
+    move () 
+    Belok_kanan () 
+    move () 
+    Belok_kanan ()
+    move () 
