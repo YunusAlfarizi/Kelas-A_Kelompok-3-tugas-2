@@ -17,3 +17,11 @@ while at_goal () == False :
         Lompat () 
     else :
         move ()
+[HURDLE 4]
+def Belok_kanan():
+    turn_left()
+    turn_left()
+    turn_left()
+def Lompat():
+    turn_left()
+    while wall_on_right():
