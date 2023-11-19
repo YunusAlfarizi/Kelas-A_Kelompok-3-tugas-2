@@ -32,3 +32,10 @@ def Lompat():
     # "jatuh" sampai menyentuh tanah
     while front_is_clear():
         move()
+    # tidak perlu melakukan giliran ini setelah menyentuh  garis finish 
+    if not at_goal():
+        turn_left()
+while not at_goal():
+    while front_is_clear():
+        move()
+    Lompat()
