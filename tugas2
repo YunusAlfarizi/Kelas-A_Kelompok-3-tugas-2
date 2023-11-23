@@ -1,3 +1,11 @@
+[HURDLE 1]
+def lompatkekanan():
+    
+    move()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
 [HURDLE 3]
 def Belok_kanan () : 
     turn_left () 
