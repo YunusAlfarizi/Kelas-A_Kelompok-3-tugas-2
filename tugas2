@@ -13,6 +13,13 @@ def lompatkekanan():
     turn_left()
     move()
     turn_left()
+   
+lompatkekanan()
+lompatkekanan()
+lompatkekanan()
+lompatkekanan()
+lompatkekanan()
+lompatkekanan()
 [HURDLE 3]
 def Belok_kanan () : 
     turn_left () 
