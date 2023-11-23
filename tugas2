@@ -27,6 +27,11 @@ def lompatkekanan()
     turn_left()
     move()
     trun_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
 [HURDLE 3]
 def Belok_kanan () : 
     turn_left () 
