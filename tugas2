@@ -20,6 +20,13 @@ lompatkekanan()
 lompatkekanan()
 lompatkekanan()
 lompatkekanan()
+
+[HURDLE 2]
+def lompatkekanan()
+    move()
+    turn_left()
+    move()
+    trun_left()
 [HURDLE 3]
 def Belok_kanan () : 
     turn_left () 
